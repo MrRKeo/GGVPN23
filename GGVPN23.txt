@@ -1,9 +1,13 @@
 {
-"Version":"2",
-"Url":"LINKFILE",
+"Version":"58",
+"Url":"https://github.com/MrRKeo/GGVPN23/blob/main/GDKVPN.zip",
 "Changelog":"
 
 Hello would!!!?
+🇹🇭
+🇸🇬
+🇰🇭
+2023
 
 ",
  "releaseNotes": [
