@@ -1,12 +1,13 @@
 {
-"Version":"58",
-"Url":"https://raw.githubusercontent.com/MrRKeo/GGVPN23/main/GGVPN23.zip",
+"Version":"57",
+"Url":"https://github.com/MrRKeo/GGVPN23/blob/main/GDKVPN.zip",
 "Changelog":"
 
 Hello would!!!?
 🇹🇭
 🇸🇬
 🇰🇭
+🇭🇲
 2023
 
 ",
