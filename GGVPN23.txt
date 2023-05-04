@@ -1,6 +1,6 @@
 {
 "Version":"57",
-"Url":"https://github.com/MrRKeo/GGVPN23/blob/main/GDKVPN.zip",
+"Url":"https://raw.githubusercontent.com/MrRKeo/GGVPN23/main/GGVPN23.zip",
 "Changelog":"
 
 Hello would!!!?
