@@ -1,5 +1,5 @@
 {
-"Version":"57",
+"Version":"533",
 "Url":"https://raw.githubusercontent.com/MrRKeo/GGVPN23/main/GGVPN23.zip",
 "Changelog":"
 
