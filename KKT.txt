@@ -2,7 +2,7 @@
 
 "Version":"4.10",
 
-"Url":"https://github.com/MrRKeo/GGVPN23/raw/main/MMO.zip",
+"Url":"https://raw.githubusercontent.com/MrRKeo/GGVPN23/main/MMO.zip",
 
 "Changelog":"
 
