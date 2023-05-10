@@ -1,31 +1,17 @@
 {
-
-"Version":"4.12",
-
+"Version":"4.13",
 "Url":"https://raw.githubusercontent.com/MrRKeo/GGVPN23/main/BROKEO.zip",
-
 "Changelog":"
-
 💶7.5 Updated💷
-
 🇸🇬Singapore Server Free30ថ្ងៃ
-
 🇸🇬Singapore Server Free7ថ្ងៃ
-
+🇹🇭Thailand Free7ថ្ងៃ
 🚀 ល្បឿនលឿន 🚀
-
 ♨️ VPN NET ឥតគិតថ្លៃ♨️
-
 🙏អរគុណសម្រាប់ការលើកទឹកចិត្ត
-
 🧑‍💻លេងដោយការទទួលការខុសត្រូវរៀបចំដោយ👉M͢.͢K͢.͢O͢.͢T͢E͢A͢M͢
-
 ",
-
  "releaseNotes": [
-
- "-Demo"
-
-  ]
-
+"-Demo"
+]
 }
