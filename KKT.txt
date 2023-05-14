@@ -1,5 +1,5 @@
 {
-"Version":"4.17",
+"Version":"4.18",
 "Url":"https://raw.githubusercontent.com/MrRKeo/GGVPN23/main/BROKEO.zip",
 "Changelog":"
 💶10.5 Updated💷
